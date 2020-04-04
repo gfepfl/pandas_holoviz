@@ -1,1 +1,1 @@
-# pandas_holoviz
+# Pandas Holoviz
